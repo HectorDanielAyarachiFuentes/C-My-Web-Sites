@@ -1,0 +1,31 @@
+HTTrack3.49-1+htsswf+htsjava launched on Sat, 30 Sep 2023 20:34:32 at https://grabify.link +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://grabify.link -O1 "C:\My Web Sites\https___grabify.link" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:35:54	Warning: 	Moved Permanently for https://grabify.link/telemetry/
+20:35:54	Warning: 	File has moved from https://grabify.link/telemetry/ to https://grabify.link/telemetry
+20:35:55	Error: 	"Not Found" (404) at link https://grabify.link/GET (from https://cdn.fuseplatform.net/publift/tags/2/1218/fuse.js)
+20:35:55	Warning: 	Moved Permanently for https://grabify.link/gpt_and_prebid/
+20:35:55	Warning: 	File has moved from https://grabify.link/gpt_and_prebid/ to https://grabify.link/gpt_and_prebid
+20:35:56	Warning: 	Moved Permanently for https://grabify.link/prebid/
+20:35:56	Warning: 	File has moved from https://grabify.link/prebid/ to https://grabify.link/prebid
+20:35:58	Warning: 	Moved Permanently for https://grabify.link/choice/
+20:35:58	Warning: 	File has moved from https://grabify.link/choice/ to https://grabify.link/choice
+20:35:59	Error: 	"Not Found" (404) at link https://grabify.link/choice.js?tag_version=V2 (from https://cdn.fuseplatform.net/publift/tags/2/1218/fuse.js)
+20:35:59	Error: 	"Forbidden" (403) at link https://grabify.link/t.document.referrer (from https://cdn.fuseplatform.net/publift/tags/2/1218/fuse.js)
+20:35:59	Error: 	"Not Found" (404) at link https://grabify.link/e (from https://cdn.fuseplatform.net/publift/tags/2/1218/fuse.js)
+20:35:59	Error: 	"Not Found" (404) at link https://grabify.link/t (from https://cdn.fuseplatform.net/publift/tags/2/1218/fuse.js)
+20:35:59	Warning: 	Moved Permanently for https://grabify.link/OPR/
+20:35:59	Warning: 	File has moved from https://grabify.link/OPR/ to https://grabify.link/OPR
+20:36:02	Error: 	"Error when decompressing" (-1) at link https://grabify.link/telemetry (from https://grabify.link/telemetry/)
+20:36:02	Error: 	"Error when decompressing" (-1) at link https://grabify.link/gpt_and_prebid (from https://grabify.link/gpt_and_prebid/)
+20:36:02	Error: 	"Not Found" (404) at link https://grabify.link/prebid (from https://grabify.link/prebid/)
+20:36:02	Error: 	"Error when decompressing" (-1) at link https://grabify.link/choice (from https://grabify.link/choice/)
+20:36:02	Error: 	"Not Found" (404) at link https://grabify.link/OPR (from https://grabify.link/OPR/)
+
+HTTrack Website Copier/3.49-1 mirror complete in 1 minutes 30 seconds : 80 links scanned, 64 files written (3257996 bytes overall) [1435654 bytes received at 15951 bytes/sec], 2868653 bytes transferred using HTTP compression in 49 files, ratio 30%, 5.5 requests per connection
+(10 errors, 10 warnings, 0 messages)
